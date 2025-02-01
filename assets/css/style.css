@@ -3,7 +3,7 @@
   padding: 0;
 }
 #header {
-  background-image: url("/assets/img/main.jpeg");
+  background-image: url("./assets/img/main.jpeg");
   background-size: cover;
   background-position: center;
   height: 300px;
