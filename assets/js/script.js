@@ -34,7 +34,7 @@ const propiedadesVenta = [
 const propiedadesAlquiler = [
   {
     nombre: "Apartamento Centro",
-    src: "./assets/img/casaA1.jpg",
+    src: "./assets/img/casaA11.jpg",
     descripcion: "Apartamento cómodo en el centro de la ciudad.",
     ubicacion: "Ciudad de México",
     habitaciones: 2,
